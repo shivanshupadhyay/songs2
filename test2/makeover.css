@@ -1,0 +1,19 @@
+h1{ 
+color:#0bf2f2; background-color: azure; font-family: sans-serif;
+}
+p{
+    color: #800080;font-size: 20px;
+    text-align: justify
+}
+header{
+    font-size: 40px; font-family:serif;color:#000080;
+}
+.alpha{
+    color:darkgreen;font-size:23px ;
+}
+.beta{
+    color:#ff0000;
+}
+.gamma{
+    
+}
